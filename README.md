@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Challenge: Update a Private Variable Using Object-Oriented Programming
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Problem Description
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+You are given a set of Solidity smart contracts (A, B, C, and D) that implement various functionalities. Among them, there is a private variable `deposited` in contract A that you need to update from contract D using object-oriented programming (OOP) principles.
